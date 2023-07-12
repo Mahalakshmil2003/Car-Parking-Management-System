@@ -1,1 +1,2 @@
 # Car-Parking-Management-System
+In the Parking Management System project it shows how parking slots are allocated to the vehicles and how we find the slot in which a vehicle is parked. This parking management system project which is built mainly to solve the Parking issues faced by a company or an institute. This System helps us to easily keep track of the slots that are occupied and the free slots. To find the free slot and to find the slot in which a particular vehicle is parked we have used a linear search algorithm which is a Brute force algorithm.
